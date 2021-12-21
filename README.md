@@ -1,1 +1,4 @@
 # Banking_app
+Banking System App which keeps track of its user's and their transaction history.
+
+Link: 
